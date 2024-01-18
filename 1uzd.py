@@ -4,4 +4,4 @@ try:
             saturs=teksts.read()
             print(saturs)
 except FileNotFoundError:
-    print("nepastav!")
+    print("nepastav sads dokuments!")
